@@ -1,0 +1,6 @@
+{
+  "name": "مسار - المساعد الدراسي للبكالوريا",
+  "description": "تطبيق متكامل لجدولة ودراسة طلاب البكالوريا السورية (علمي وأدبي) يعمل أوفلاين مع محرك جدولة ذكي ومراجعة متباعدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,111 @@
+{
+  "curriculumVersion": "2025-2026",
+  "branch": "literary",
+  "academicYear": "البكالوريا - الفرع الأدبي",
+  "subjects": [
+    {
+      "id": "sub_lit_arab",
+      "name": "اللغة العربية",
+      "shortName": "عربي",
+      "subjectType": "language",
+      "color": "#D81B60",
+      "icon": "menu_book",
+      "importanceWeight": 5.0,
+      "weeklyMinimumMinutes": 360,
+      "units": [
+        {"id": "unit_lit_arab_1", "title": "القضايا القومية والاجتماعية والوجدانية", "estimatedMinutes": 300, "difficulty": 4},
+        {"id": "unit_lit_arab_2", "title": "الأدب الحديث والمسرح والقصة", "estimatedMinutes": 240, "difficulty": 4},
+        {"id": "unit_lit_arab_3", "title": "قواعد النحو والتطبيق والإعراب الموسع", "estimatedMinutes": 270, "difficulty": 4},
+        {"id": "unit_lit_arab_4", "title": "البلاغة والعروض والتعبير الأدبي والموضوع المقارن", "estimatedMinutes": 300, "difficulty": 5}
+      ]
+    },
+    {
+      "id": "sub_lit_phil",
+      "name": "الفلسفة والعلوم الإنسانية",
+      "shortName": "فلسفة",
+      "subjectType": "memorization",
+      "color": "#8E24AA",
+      "icon": "psychology",
+      "importanceWeight": 5.0,
+      "weeklyMinimumMinutes": 360,
+      "units": [
+        {"id": "unit_phil_1", "title": "المعرفة والمنطق ونظرية العلم", "estimatedMinutes": 300, "difficulty": 4},
+        {"id": "unit_phil_2", "title": "الأخلاق والقيم والمواطنة الفلسفية", "estimatedMinutes": 240, "difficulty": 3},
+        {"id": "unit_phil_3", "title": "علم النفس والعمليات المعرفية والنمو", "estimatedMinutes": 270, "difficulty": 4},
+        {"id": "unit_phil_4", "title": "علم الاجتماع والتغير الاجتماعي والمشكلات العصرية", "estimatedMinutes": 270, "difficulty": 4}
+      ]
+    },
+    {
+      "id": "sub_lit_hist",
+      "name": "التاريخ",
+      "shortName": "تاريخ",
+      "subjectType": "memorization",
+      "color": "#E64A19",
+      "icon": "history_edu",
+      "importanceWeight": 4.5,
+      "weeklyMinimumMinutes": 300,
+      "units": [
+        {"id": "unit_hist_1", "title": "المشاريع الاستعمارية وحركات المقاومة الوطنية", "estimatedMinutes": 270, "difficulty": 4},
+        {"id": "unit_hist_2", "title": "التنظيمات السياسية والنهضة العربية الحديثة", "estimatedMinutes": 240, "difficulty": 3},
+        {"id": "unit_hist_3", "title": "العلاقات الدولية وقضايا العالم العربي المعاصر", "estimatedMinutes": 270, "difficulty": 4}
+      ]
+    },
+    {
+      "id": "sub_lit_geo",
+      "name": "الجغرافيا",
+      "shortName": "جغرافيا",
+      "subjectType": "memorization",
+      "color": "#2E7D32",
+      "icon": "public",
+      "importanceWeight": 4.0,
+      "weeklyMinimumMinutes": 240,
+      "units": [
+        {"id": "unit_geo_1", "title": "الجغرافيا الطبيعية والمناخ المائي وتضاريس الوطن العربي", "estimatedMinutes": 210, "difficulty": 3},
+        {"id": "unit_geo_2", "title": "السكان والتكتلات الاقتصادية والتخطيط الإقليمي", "estimatedMinutes": 210, "difficulty": 3},
+        {"id": "unit_geo_3", "title": "الخرائط والتقانات الجغرافية والاستشعار عن بعد", "estimatedMinutes": 180, "difficulty": 3}
+      ]
+    },
+    {
+      "id": "sub_lit_eng",
+      "name": "اللغة الإنكليزية",
+      "shortName": "إنكليزي",
+      "subjectType": "language",
+      "color": "#FB8C00",
+      "icon": "translate",
+      "importanceWeight": 3.5,
+      "weeklyMinimumMinutes": 210,
+      "units": [
+        {"id": "unit_lit_eng_1", "title": "Literature & Grammar Focus", "estimatedMinutes": 210, "difficulty": 3},
+        {"id": "unit_lit_eng_2", "title": "Reading Comprehension & Essays", "estimatedMinutes": 210, "difficulty": 3}
+      ]
+    },
+    {
+      "id": "sub_lit_fr",
+      "name": "اللغة الفرنسية",
+      "shortName": "فرنسي",
+      "subjectType": "language",
+      "color": "#3949AB",
+      "icon": "language",
+      "importanceWeight": 3.0,
+      "weeklyMinimumMinutes": 180,
+      "units": [
+        {"id": "unit_lit_fr_1", "title": "Analyse de Texte & Grammaire", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_lit_fr_2", "title": "Production Écrite Littéraire", "estimatedMinutes": 180, "difficulty": 3}
+      ]
+    },
+    {
+      "id": "sub_lit_rel",
+      "name": "التربية الدينية",
+      "shortName": "ديانة",
+      "subjectType": "memorization",
+      "color": "#00897B",
+      "icon": "auto_stories",
+      "importanceWeight": 2.5,
+      "weeklyMinimumMinutes": 120,
+      "units": [
+        {"id": "unit_lit_rel_1", "title": "النصوص القرآنية والأحاديث الشريفة", "estimatedMinutes": 120, "difficulty": 2},
+        {"id": "unit_lit_rel_2", "title": "الفكر الإسلامي والقضايا الأخلاقية", "estimatedMinutes": 120, "difficulty": 2}
+      ]
+    }
+  ]
+}

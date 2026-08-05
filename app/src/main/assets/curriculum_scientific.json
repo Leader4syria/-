@@ -1,0 +1,148 @@
+{
+  "curriculumVersion": "2025-2026",
+  "branch": "scientific",
+  "academicYear": "البكالوريا - الفرع العلمي",
+  "subjects": [
+    {
+      "id": "sub_sci_math",
+      "name": "الرياضيات",
+      "shortName": "رياضيات",
+      "subjectType": "problemSolving",
+      "color": "#1E88E5",
+      "icon": "functions",
+      "importanceWeight": 5.0,
+      "weeklyMinimumMinutes": 360,
+      "units": [
+        {"id": "unit_math_1", "title": "النهايات والاستمرار", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_math_2", "title": "الاشتقاق وتطبيقاته", "estimatedMinutes": 240, "difficulty": 4},
+        {"id": "unit_math_3", "title": "المتتاليات والاطراد", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_math_4", "title": "التكامل المحدد والتوابع الأصلية", "estimatedMinutes": 300, "difficulty": 5},
+        {"id": "unit_math_5", "title": "الهندسة الفضائية والأشعة", "estimatedMinutes": 270, "difficulty": 4},
+        {"id": "unit_math_6", "title": "الأعداد العقدية وتحويلاتها", "estimatedMinutes": 240, "difficulty": 4},
+        {"id": "unit_math_7", "title": "الاحتمالات والإحصاء", "estimatedMinutes": 210, "difficulty": 3}
+      ]
+    },
+    {
+      "id": "sub_sci_phys",
+      "name": "الفيزياء",
+      "shortName": "فيزياء",
+      "subjectType": "problemSolving",
+      "color": "#00ACC1",
+      "icon": "bolt",
+      "importanceWeight": 4.5,
+      "weeklyMinimumMinutes": 300,
+      "units": [
+        {"id": "unit_phys_1", "title": "النواسات الحركة والحركة الاهتزازية", "estimatedMinutes": 240, "difficulty": 4},
+        {"id": "unit_phys_2", "title": "ميكانيك السوائل", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_phys_3", "title": "الكرومغناطيسية والتحريض الكهرومغناطيسي", "estimatedMinutes": 270, "difficulty": 5},
+        {"id": "unit_phys_4", "title": "أمواج مستقرة والاهتزازات القسرية", "estimatedMinutes": 210, "difficulty": 4},
+        {"id": "unit_phys_5", "title": "الفيزياء الذرية والفيزياء النووية", "estimatedMinutes": 180, "difficulty": 3}
+      ]
+    },
+    {
+      "id": "sub_sci_chem",
+      "name": "الكيمياء",
+      "shortName": "كيمياء",
+      "subjectType": "problemSolving",
+      "color": "#43A047",
+      "icon": "science",
+      "importanceWeight": 4.0,
+      "weeklyMinimumMinutes": 240,
+      "units": [
+        {"id": "unit_chem_1", "title": "الكيمياء النووية والسرعة الكيميائية", "estimatedMinutes": 150, "difficulty": 3},
+        {"id": "unit_chem_2", "title": "التوازن الكيميائي وتوازن الحموض والأسس", "estimatedMinutes": 210, "difficulty": 4},
+        {"id": "unit_chem_3", "title": "المعايرة وحاصل الإذابة Ksp", "estimatedMinutes": 240, "difficulty": 4},
+        {"id": "unit_chem_4", "title": "الكيمياء العضوية والتفاعلات العضوية", "estimatedMinutes": 270, "difficulty": 4}
+      ]
+    },
+    {
+      "id": "sub_sci_bio",
+      "name": "علم الأحياء (العلوم العامة)",
+      "shortName": "علوم",
+      "subjectType": "memorization",
+      "color": "#8E24AA",
+      "icon": "biotech",
+      "importanceWeight": 4.5,
+      "weeklyMinimumMinutes": 270,
+      "units": [
+        {"id": "unit_bio_1", "title": "التنسيق العصبي والمستقبلات الحسية", "estimatedMinutes": 300, "difficulty": 4},
+        {"id": "unit_bio_2", "title": "التنسيق الهرموني والنعاس والذاكرة", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_bio_3", "title": "التكاثر لدى النباتات والحيوانات والإنسان", "estimatedMinutes": 330, "difficulty": 5},
+        {"id": "unit_bio_4", "title": "الوراثة والتعبير الجيني والتقانة الحيوية", "estimatedMinutes": 270, "difficulty": 4}
+      ]
+    },
+    {
+      "id": "sub_sci_arab",
+      "name": "اللغة العربية",
+      "shortName": "عربي",
+      "subjectType": "language",
+      "color": "#D81B60",
+      "icon": "menu_book",
+      "importanceWeight": 4.0,
+      "weeklyMinimumMinutes": 240,
+      "units": [
+        {"id": "unit_arab_1", "title": "قضايا وطنية وقومية (القواعد والنصوص والحرية)", "estimatedMinutes": 210, "difficulty": 3},
+        {"id": "unit_arab_2", "title": "قضايا اجتماعية وإنسانية", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_arab_3", "title": "الأدب والوجدانيات والتعبير الأدبي", "estimatedMinutes": 240, "difficulty": 4},
+        {"id": "unit_arab_4", "title": "قواعد النحو والصرف والبلاغة والعروض", "estimatedMinutes": 210, "difficulty": 3}
+      ]
+    },
+    {
+      "id": "sub_sci_eng",
+      "name": "اللغة الإنكليزية",
+      "shortName": "إنكليزي",
+      "subjectType": "language",
+      "color": "#FB8C00",
+      "icon": "translate",
+      "importanceWeight": 3.5,
+      "weeklyMinimumMinutes": 180,
+      "units": [
+        {"id": "unit_eng_1", "title": "Modules 1 & 2: Grammar & Reading Passages", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_eng_2", "title": "Modules 3 & 4: Vocabulary & Writing Topics", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_eng_3", "title": "Modules 5 & 6: Revision & Mock Papers", "estimatedMinutes": 180, "difficulty": 3}
+      ]
+    },
+    {
+      "id": "sub_sci_fr",
+      "name": "اللغة الفرنسية",
+      "shortName": "فرنسي",
+      "subjectType": "language",
+      "color": "#3949AB",
+      "icon": "language",
+      "importanceWeight": 3.0,
+      "weeklyMinimumMinutes": 150,
+      "units": [
+        {"id": "unit_fr_1", "title": "Dossiers 1 & 2: Compréhension & Grammaire", "estimatedMinutes": 180, "difficulty": 3},
+        {"id": "unit_fr_2", "title": "Dossiers 3 & 4: Production Écrite & Expression", "estimatedMinutes": 180, "difficulty": 3}
+      ]
+    },
+    {
+      "id": "sub_sci_rel",
+      "name": "التربية الدينية",
+      "shortName": "ديانة",
+      "subjectType": "memorization",
+      "color": "#00897B",
+      "icon": "auto_stories",
+      "importanceWeight": 2.5,
+      "weeklyMinimumMinutes": 120,
+      "units": [
+        {"id": "unit_rel_1", "title": "القرآن الكريم والأحاديث الشريفة المقررة", "estimatedMinutes": 120, "difficulty": 2},
+        {"id": "unit_rel_2", "title": "العقيدة والقيم الإسلامية والتربية الأخلاقية", "estimatedMinutes": 120, "difficulty": 2}
+      ]
+    },
+    {
+      "id": "sub_sci_nat",
+      "name": "التربية الوطنية",
+      "shortName": "وطنية",
+      "subjectType": "memorization",
+      "color": "#6D4C41",
+      "icon": "flag",
+      "importanceWeight": 2.5,
+      "weeklyMinimumMinutes": 120,
+      "units": [
+        {"id": "unit_nat_1", "title": "وحدة المجتمع والقانون والمواطنة", "estimatedMinutes": 120, "difficulty": 2},
+        {"id": "unit_nat_2", "title": "وحدة العلاقات الدولية والأمن القومي", "estimatedMinutes": 120, "difficulty": 2}
+      ]
+    }
+  ]
+}
